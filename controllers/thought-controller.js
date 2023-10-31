@@ -1,4 +1,4 @@
-const { Thought, User, Reaction } = require('../models');
+const { Thought, User } = require('../models');
 const {Types} = require('mongoose');
 
 //  all thoughts
@@ -91,5 +91,5 @@ const ThoughtController = {
   // },
 
 };
-// Export thought-controller
+
 module.exports = ThoughtController;

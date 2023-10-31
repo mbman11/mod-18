@@ -1,5 +1,5 @@
 const { User } = require('../models');
-
+// same as thhoughts
 const UserController = {
   getAllUsers(req, res) {
     User.find({})
@@ -85,5 +85,5 @@ const UserController = {
 };
 
 
-// Export UserController
+
 module.exports = UserController;
