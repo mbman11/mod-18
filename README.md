@@ -8,3 +8,5 @@
 * Video walk through: https://drive.google.com/file/d/1FAMjiFmuLTt0u3SCfto9pRHPHcft-JWc/view
 
 ![Alt text](<Screen Shot 2023-10-31 at 3.42.01 PM.png>)
+
+* had help from tutors, and activities, and youtube
